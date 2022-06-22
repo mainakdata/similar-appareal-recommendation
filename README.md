@@ -1,2 +1,2 @@
 # similar-appareal-recommendation
-Recommend similar apparel products in e-commerce using product descriptions and Images
+Recommend similar apparel products in e-commerce using product descriptions and Images(Content Based Reco System)
